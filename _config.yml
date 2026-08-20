@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rakibul Islam"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Rakibul Isam, Pursuing PhD in Pharmacoinformatics Department at NIPER, Kolkata, Project interests are AI/ML, All-atomistic & Coarse-grain simulation, Chemoinformatics, Drug discovery"
 repository               : "Rakibul-Niper/Rakibul-Niper.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/rakibul-islam-224b2418a/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0075-4115"
+  orcid            : "https://orcid.org/0000-0002-0075-4115"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
