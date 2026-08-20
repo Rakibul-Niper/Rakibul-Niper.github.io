@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Rakibul Islam"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "Rakibul-Niper/Rakibul-Niper.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,12 +24,13 @@ author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Kolkata, India"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "author:
+  googlescholar:   : "https://scholar.google.com/citations?user=Sg-2H54AAAAJ&hl=en"
+  email            : "rakibpharma.ju@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Rakibul-Islam-113?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,9 +44,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/rakibul-islam-224b2418a/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0075-4115"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
